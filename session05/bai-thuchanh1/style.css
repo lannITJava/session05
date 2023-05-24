@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+.container{
+    width: 700px;
+    height: 450px;
+    margin: 50px auto;
+    background-color: rgb(238, 233, 228);
+
+}
+h1{
+    font-size: 25px;
+    padding: 5px;
+}
+.ra1{
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.div1{
+    width: 300px;
+    height: 150px;
+    border: 1px solid rgb(94, 150, 241);
+    background-color: rgb(94, 150, 241);
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.container1{
+    width: 300px;
+    height: 500px;
+    line-height: 15px;
+    float: left;
+    margin-right: 30px;
+}
+.container1> h2{
+    padding-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.container1>p{
+    padding-left: 10px;
+}
+.container2>.div2{
+    width: 60px;
+    height: 60px;
+    background-color: pink;
+    margin-left: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 10px;
+}
+.container2>h4{
+    position: absolute;
+    top: 130px;
+    left: 780px;
+}
+.container2>p{
+    position: absolute;
+    top: 145px;
+    left: 780px;
+    width: 270px;
+}
+
+.container3>.div3{
+    width: 60px;
+    height: 60px;
+    background-color: pink;
+    margin-left: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.container3>h4{
+    position: absolute;
+    top: 210px;
+    left: 780px;
+}
+.container3>p{
+    position: absolute;
+    top: 225px;
+    left: 780px;
+    width: 270px;
+}
+.container5>.div5{
+    width: 60px;
+    height: 60px;
+    background-color: pink;
+    margin-left: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.container5>h4{
+    position: absolute;
+    top: 290px;
+    left: 780px;
+}
+.container5>p{
+    position: absolute;
+    top: 305px;
+    left: 780px;
+    width: 270px;
+}
+.container6>.div6{
+    width: 60px;
+    height: 60px;
+    background-color: pink;
+    margin-left: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.container6>h4{
+    position: absolute;
+    top: 375px;
+    left: 780px;
+}
+.container6>p{
+    position: absolute;
+    top: 390px;
+    left: 780px;
+    width: 270px;
+}
